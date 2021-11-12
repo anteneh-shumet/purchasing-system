@@ -1,0 +1,13 @@
+@charset @charset "utf-8";
+body{ 
+			 
+				text-align:center;
+				 background:rgb(170,223,236);
+				 }
+				 h2{
+					 text-align:center;
+				 }
+				div{ border:1px solid black;
+			    margin:0px 400px;
+				background:#0099cc;}
+				
